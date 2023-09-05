@@ -1,3 +1,6 @@
+# Omurex Modifications
+For the state machine graph I plan on making, I am using this project as a base. The only changes to this fork are ones to make the state machine graph function.
+
 # NodeGraphProcessor
 Node graph editor framework focused on data processing using Unity UIElements, GraphView and C# 4.7
 
